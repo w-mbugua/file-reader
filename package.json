@@ -1,0 +1,14 @@
+{
+  "name": "node_assignment2",
+  "version": "1.0.0",
+  "description": "Writing files lesson",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Joy Mbugua",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
